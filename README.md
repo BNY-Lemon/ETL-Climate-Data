@@ -10,6 +10,6 @@ We will pull data from online sources via API on (1) national temperature change
 We will transfer the data through pandas to a SQL database and create normalized table linkages.
 
 ## Data Sources:
-https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv
-https://www.kaggle.com/yoannboyere/co2-ghg-emissionsdata
-https://www.kaggle.com/headsortails/us-natural-disaster-declarations?select=us_disaster_declarations.csv
+- https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv
+- https://www.kaggle.com/yoannboyere/co2-ghg-emissionsdata
+- https://www.kaggle.com/headsortails/us-natural-disaster-declarations?select=us_disaster_declarations.csv
