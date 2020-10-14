@@ -7,7 +7,7 @@ We are interested in creating a database of climate data to clean and normalize 
 We will pull data from online sources via API on (1) national temperature changes over time, (2) global CO2 emissions, and (3), time permitting, historic intensity of meteorological disasters in the US.
 
 ### 2. Data Cleanup & Analysis
-We will transfer the data through pandas to a SQL database and analyze correlations between the various tables.
+We will transfer the data through pandas to a SQL database and create normalized table linkages.
 
 ## Data Sources:
 https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv
